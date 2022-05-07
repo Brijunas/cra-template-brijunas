@@ -1,0 +1,11 @@
+{
+  "short_name": "Short name",
+  "name": "Long name",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "96x96",
+      "type": "image/x-icon"
+    }
+  ]
+}
